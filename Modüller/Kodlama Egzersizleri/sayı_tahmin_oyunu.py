@@ -33,7 +33,7 @@ while True:
     else:
         print("Bilgiler Sorgulanıyor....")
         time.sleep(1)
-        print("Tebrikler! Sayımız",rastgele_sayı)
+        print("Tebrikler! Sayımız:",rastgele_sayı)
         break
     if (tahmin_hakkı == 0):
         print("Tahmin Hakkınız Bitti...")
